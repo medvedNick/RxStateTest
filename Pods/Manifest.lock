@@ -1,0 +1,20 @@
+PODS:
+  - RxAppState (0.3.1):
+    - RxCocoa (~> 3.1)
+    - RxSwift (~> 3.1)
+  - RxCocoa (3.3.1):
+    - RxSwift (~> 3.3)
+  - RxSwift (3.3.1)
+
+DEPENDENCIES:
+  - RxAppState
+  - RxSwift
+
+SPEC CHECKSUMS:
+  RxAppState: d228847ff8c1fee39e329930f58ed5c75c4f5eca
+  RxCocoa: 7dcb7a1860fc9cd0e23dae67ab105fc2916670b6
+  RxSwift: 8fc9f2de6275a9101d518444e00bf32f1a42caac
+
+PODFILE CHECKSUM: a64489d838dfc0af48c976c9d13a05c4fcd22a73
+
+COCOAPODS: 1.2.0
